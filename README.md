@@ -25,3 +25,4 @@ When you run the script, press the number with the program you want to install
 @invite_mining
 t.me/invite_mining
 DONATIONS BTC 1BrQiUuWW4B58h1MZDaFZEUJp2Bf28Rijn
+08.03.2021
