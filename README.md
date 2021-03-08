@@ -58,7 +58,7 @@ glances:
 Полный контроль температуры вашего компьютера и его компонентов!
 
 @invite_mining
-t.me/invite_mining
+https://t.me/invite_mining
 ------------------------------------------------
 DONATIONS BTC 1BrQiUuWW4B58h1MZDaFZEUJp2Bf28Rijn
 ------------------------------------------------
