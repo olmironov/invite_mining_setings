@@ -1,41 +1,5 @@
 #!/bin/bash
 # 08.03.2021
-function xmrig {
-clear
-}
-function  lolMiner_v1.24 {
-clear
-}
-function ethminer {
-clear
-}
-function nbminer {
-clear
-}
-function gminer {
-clear
-}
-function cuda {
-clear
-}
-function opencl {
-clear
-}
-function driver_nvidia_455.38 {
-clear
-}
-function driver_amd_756341 {
-clear
-}
-function screen {
-clear
-}
-function glances {
-clear
-}
-function slurm {
-clear
-}
 #Create a menu
 function menu {
 clear
