@@ -21,6 +21,35 @@ chmod +x install.sh
 When you run the script, press the number with the program you want to install
 Когда запустите скрипт, нажмите цифру с программой которую хотите утсановить
 
+xmrig:
+xmrig -a algorithm -o pool -u wallet
+--------------------------------------------------------
+lolminer:
+lolminer --coin ZEL --pool zel.2miners.com --port 9090 --user YOUR_ADDRESS.RIG_ID --pass x
+--------------------------------------------------------
+ethminer:
+ethminer [DEVICES_TYPE] [OPTIONS] -P... [-P...]
+Devices type options :
+
+    By default ethminer will try to use all devices types
+    it can detect. Optionally you can limit this behavior
+    setting either of the following options
+    -G,--opencl         Mine/Benchmark using OpenCL only
+    -U,--cuda           Mine/Benchmark using CUDA only
+--------------------------------------------------------
+nbminer:
+nbminer -a algorithm -o pool -u wallet -long-format
+--------------------------------------------------------
+gminer:
+miner --algo algorithm --server pool --user wallet
+--------------------------------------------------------
+screen:
+С помощью этой утилиты прячем наш майнер
+screen 2x space and start mining
+--------------------------------------------------------
+glances:
+Вам достаточно запустить эту команду и вы сами все поймете для чего она вам нужна. 
+Полный контроль температуры вашего компьютера и его компонентов!
 
 @invite_mining
 t.me/invite_mining
